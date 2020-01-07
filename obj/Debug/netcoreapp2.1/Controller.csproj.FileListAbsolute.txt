@@ -1,0 +1,32 @@
+C:\Users\Martin\source\repos\Controller\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Martin\source\repos\Controller\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Martin\source\repos\Controller\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Martin\source\repos\Controller\bin\Debug\netcoreapp2.1\Controller.deps.json
+C:\Users\Martin\source\repos\Controller\bin\Debug\netcoreapp2.1\Controller.runtimeconfig.json
+C:\Users\Martin\source\repos\Controller\bin\Debug\netcoreapp2.1\Controller.runtimeconfig.dev.json
+C:\Users\Martin\source\repos\Controller\bin\Debug\netcoreapp2.1\Controller.dll
+C:\Users\Martin\source\repos\Controller\obj\Debug\netcoreapp2.1\Controller.csprojAssemblyReference.cache
+C:\Users\Martin\source\repos\Controller\obj\Debug\netcoreapp2.1\Controller.RazorAssemblyInfo.cache
+C:\Users\Martin\source\repos\Controller\obj\Debug\netcoreapp2.1\Controller.RazorAssemblyInfo.cs
+C:\Users\Martin\source\repos\Controller\obj\Debug\netcoreapp2.1\Controller.AssemblyInfoInputs.cache
+C:\Users\Martin\source\repos\Controller\obj\Debug\netcoreapp2.1\Controller.AssemblyInfo.cs
+C:\Users\Martin\source\repos\Controller\obj\Debug\netcoreapp2.1\Controller.RazorTargetAssemblyInfo.cache
+C:\Users\Martin\source\repos\Controller\bin\Debug\netcoreapp2.1\Controller.pdb
+C:\Users\Martin\source\repos\Controller\obj\Debug\netcoreapp2.1\Controller.dll
+C:\Users\Martin\source\repos\Controller\obj\Debug\netcoreapp2.1\Controller.pdb
+C:\Users\Martin\Documents\NET\Kursa darbs\Finance System\Controller\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Martin\Documents\NET\Kursa darbs\Finance System\Controller\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Martin\Documents\NET\Kursa darbs\Finance System\Controller\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Martin\Documents\NET\Kursa darbs\Finance System\Controller\bin\Debug\netcoreapp2.1\Controller.deps.json
+C:\Users\Martin\Documents\NET\Kursa darbs\Finance System\Controller\bin\Debug\netcoreapp2.1\Controller.runtimeconfig.json
+C:\Users\Martin\Documents\NET\Kursa darbs\Finance System\Controller\bin\Debug\netcoreapp2.1\Controller.runtimeconfig.dev.json
+C:\Users\Martin\Documents\NET\Kursa darbs\Finance System\Controller\bin\Debug\netcoreapp2.1\Controller.dll
+C:\Users\Martin\Documents\NET\Kursa darbs\Finance System\Controller\bin\Debug\netcoreapp2.1\Controller.pdb
+C:\Users\Martin\Documents\NET\Kursa darbs\Finance System\Controller\obj\Debug\netcoreapp2.1\Controller.csprojAssemblyReference.cache
+C:\Users\Martin\Documents\NET\Kursa darbs\Finance System\Controller\obj\Debug\netcoreapp2.1\Controller.RazorAssemblyInfo.cache
+C:\Users\Martin\Documents\NET\Kursa darbs\Finance System\Controller\obj\Debug\netcoreapp2.1\Controller.RazorAssemblyInfo.cs
+C:\Users\Martin\Documents\NET\Kursa darbs\Finance System\Controller\obj\Debug\netcoreapp2.1\Controller.AssemblyInfoInputs.cache
+C:\Users\Martin\Documents\NET\Kursa darbs\Finance System\Controller\obj\Debug\netcoreapp2.1\Controller.AssemblyInfo.cs
+C:\Users\Martin\Documents\NET\Kursa darbs\Finance System\Controller\obj\Debug\netcoreapp2.1\Controller.RazorTargetAssemblyInfo.cache
+C:\Users\Martin\Documents\NET\Kursa darbs\Finance System\Controller\obj\Debug\netcoreapp2.1\Controller.dll
+C:\Users\Martin\Documents\NET\Kursa darbs\Finance System\Controller\obj\Debug\netcoreapp2.1\Controller.pdb
